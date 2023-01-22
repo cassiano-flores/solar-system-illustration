@@ -8,13 +8,37 @@ body {
     width: 100%;
     height: 100vh;
     display: flex;
-    position: relative;
+    position: fixed;
 }
 
 .sun {
-    width: 19.43%;
+    width: 30%;
+    height: 115%;
     background: yellow;
+    border-radius: 100%;
+    
+    position: relative;
+    top: -8%;
+    left: -18%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .mercury {
     background: gray;
